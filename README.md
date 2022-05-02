@@ -13,6 +13,7 @@ https://aden-q.github.io/
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="linux" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="linux" width="40" height="40"/> 
 </p>
 
 <!--
