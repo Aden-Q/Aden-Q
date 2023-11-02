@@ -15,6 +15,7 @@
 <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
 <!--
