@@ -1,7 +1,7 @@
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="go" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21~bgwhite.svg" alt="rust" width="70" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
