@@ -8,12 +8,12 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="k8s" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="k8s" width="90" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="80" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="docker" width="80" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21~bgwhite.svg" alt="graphql" width="80" height="50"/>
 </p>
 
 -----
